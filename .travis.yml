@@ -20,6 +20,5 @@ cache:
 install:
   - npm install
 
-script:
-  - ng serve
+#script:
 #  - npm run test -- --watch=false --no-progress --browsers=ChromeHeadlessNoSandbox
