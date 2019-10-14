@@ -1,4 +1,7 @@
-# TourHeroes
+<p align="center">
+<a href="https://github.com/spegusess/stazia"><img src="https://travis-ci.org/spegusess/Stazia.svg?branch=master"></a>
+</p>
+# Tour of Heroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
 
