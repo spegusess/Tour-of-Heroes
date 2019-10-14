@@ -6,6 +6,12 @@ sudo: required
 branches:
   only:
   - master
+ addons:
+  apt:
+    sources:
+      - google-chrome
+    packages:
+      - google-chrome-stable
 before_script:
   - npm install -g @angular/cli
 script:
