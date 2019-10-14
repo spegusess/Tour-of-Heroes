@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/spegusess/stazia"><img src="https://travis-ci.org/spegusess/Stazia.svg?branch=master"></a>
+<a href="https://github.com/spegusess/Tour-of-Heroes"><img src="https://travis-ci.org/spegusess/Tour-of-Heroes.svg?branch=master"></a>
 </p>
 # Tour of Heroes
 
