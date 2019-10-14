@@ -22,10 +22,10 @@ module.exports = function (config) {
     },
     reporters: ['progress', 'kjhtml'],
 	// config for travis.ci testing (https://medium.com/faun/configuring-travis-ci-for-angular-application-34afee1715f)
-	//customLaunchers: {
-    //  ChromeHeadlessNoSandbox: {
-    //    base: 'ChromeHeadless',
-    //    flags: ['--no-sandbox']
+	customLaunchers: {
+      ChromeHeadlessNoSandbox: {
+        base: 'ChromeHeadless',
+        flags: ['--no-sandbox']
 	//
     port: 9876,
     colors: true,
