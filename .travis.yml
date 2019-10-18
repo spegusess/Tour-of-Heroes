@@ -19,6 +19,7 @@ cache:
 
 before_script:    
   - npm install -g @angular/cli
+  - npm install karma
   - npm install -g lint
 script:
 #- ng lint
